@@ -37,6 +37,7 @@
       <HintPath>..\packages\Dapper.Contrib.1.50.4\lib\net451\Dapper.Contrib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Linq" />
     <Reference Include="System.Xml.Linq" />
@@ -47,16 +48,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Ports\IRepository.cs" />
-    <Compile Include="Ports\Repository.cs" />
+    <Compile Include="AbilitiesRepository.cs" />
+    <Compile Include="ArchetypeDetailsRepository.cs" />
+    <Compile Include="ArchetypesRepository.cs" />
+    <Compile Include="ClassDetails.cs" />
+    <Compile Include="ClassesRepository.cs" />
+    <Compile Include="Entity\AbilitiesEntity.cs" />
+    <Compile Include="Entity\ArchetypeDetailsEntity.cs" />
+    <Compile Include="Entity\ArchetypesEntity.cs" />
+    <Compile Include="Entity\ClassDetailsEntity.cs" />
+    <Compile Include="Entity\ClassesEntity.cs" />
+    <Compile Include="Ports\IAbilitiesRepository.cs" />
+    <Compile Include="Ports\IArchetypeDetailsRepository.cs" />
+    <Compile Include="Ports\IArchetypesRepository.cs" />
+    <Compile Include="Ports\IClassDetailsRepository.cs" />
+    <Compile Include="Ports\IClassesRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repo\IRepository.cs" />
+    <Compile Include="Repo\Repository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Entity\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,11 @@
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\bin\Debug\Creator.Repository.dll
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\bin\Debug\Creator.Repository.pdb
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\bin\Debug\Dapper.Contrib.dll
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\bin\Debug\Dapper.dll
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\bin\Debug\Dapper.xml
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\bin\Debug\Dapper.Contrib.xml
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\obj\Debug\Creator.Repository.csprojResolveAssemblyReference.cache
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\obj\Debug\Creator.Repository.csproj.CoreCompileInputs.cache
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\obj\Debug\Creator.Repository.csproj.CopyComplete
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\obj\Debug\Creator.Repository.dll
+C:\Users\AndreiU\Desktop\GitHub\Project-Curs\Character Class Creator\Creator.Repository\obj\Debug\Creator.Repository.pdb
